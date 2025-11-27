@@ -103,6 +103,8 @@ The dashboard helps understand how stress changes with sleep, age, gender, and w
 
 ## 📸 Dashboard Preview
 
+https://github.com/Shubhanshu007iit/Mental-Health-Analysis-Dashboard/blob/main/Dashboard%20Mental%20Health%20Analysis.png
+
 :
 
 ```
