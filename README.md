@@ -3,7 +3,7 @@ Mental health data analysis project using Python, SQL Server, and Power BI. Clea
 
 ## 📂 Dataset
 
-* File: `mental_health_data.csv`
+* File: `mental_health_data.csv` https://github.com/Shubhanshu007iit/Mental-Health-Analysis-Dashboard/blob/main/Mental_Health_Dataset.csv
 * Columns include:
   `Age`, `Gender`, `Stress_Level`, `Anxiety_Score`, `Sleep_Hours`, `Department`, `Location`, `Date`
 
