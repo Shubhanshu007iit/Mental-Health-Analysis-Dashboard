@@ -103,7 +103,7 @@ The dashboard helps understand how stress changes with sleep, age, gender, and w
 
 ## 📸 Dashboard Preview
 
-Add your image here:
+:
 
 ```
 ![Dashboard](dashboard.png)
